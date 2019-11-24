@@ -1,3 +1,2 @@
-# Flutter Native View Communication : Platform Channels
-
-Android Activity (xml) + iOS ViewController (xib) - Native View Communication - Platform Channels: Flutter
+# Flutter Native View Communication
+A sample app to demonstrate the native view communication / navigation inside Flutter using Platform Channels
